@@ -3,7 +3,10 @@ Out-of-Distribution Detection For Forgery Images Using Digital Watermarking
 
 ## Environments
 	tensorflow 2.4
-
+	numpy
+	scikit-learn
+	skimage
+	
 ## Usage
 
 Example:  
