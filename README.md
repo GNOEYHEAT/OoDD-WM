@@ -1,6 +1,8 @@
 # OoDD-WM
 Out-of-Distribution Detection For Forgery Images Using Digital Watermarking
 
+https://www.kaggle.com/gnoeyheat/forgery-cifar10-and-cifar100
+
 ## Environments
 	tensorflow 2.4
 	numpy
