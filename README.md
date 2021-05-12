@@ -5,9 +5,8 @@ https://www.kaggle.com/gnoeyheat/forgery-cifar10-and-cifar100
 
 ## Environments
 	tensorflow 2.4
-	numpy
-	scikit-learn
-	skimage
+	scikit-learn 0.23.2
+	scikit-image 0.17.2
 	
 ## Usage
 
